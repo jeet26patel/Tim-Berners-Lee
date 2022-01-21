@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+#onesection{
+    background: linear-gradient(#ff0000 0%,#823e3e 100%);
+    z-index: 9;
+
+
+}
+#one{
+    font-size: 50px;
+    font-family: 'Big Shoulders Inline Text', cursive;
+}
+.menu{
+    z-index: 10;
+    position: absolute;
+    right:20px;
+    left:30px;
+    cursor:pointer;
+}
+.link{
+    background-color: #ff0000;
+    padding: 10px;
+    list-style: none;
+    float:left;
+    font-family: 'Amatic SC', cursive;
+}
+.link:hover{
+    background-color: #823e3e;
+    color:yellowgreen;
+}
+#work{
+    font-family: 'Big Shoulders Inline Text', cursive;
+
+}
+#works{
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: underline;
+}
+#video{
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: underline;
+}
+#writting{
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: underline;
+}
